@@ -1,0 +1,6 @@
+[0710/165539.237:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0710/171202.213:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0711/103858.838:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0711/103858.881:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0711/103858.894:ERROR:exception_snapshot_win.cc(88)] thread ID 21304 not found in process
+[0711/103858.895:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
